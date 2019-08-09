@@ -1,8 +1,0 @@
-prefix=/home/eugen/Catkin/mpn/ws01/src/tuw_segment_progress_visualisation/cmake-build-debug/devel
-
-Name: tuw_segment_progress_visualisation
-Description: Description of tuw_segment_progress_visualisation
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/eugen/Catkin/mpn/ws01/src/tuw_segment_progress_visualisation/cmake-build-debug/devel/lib 
-Requires: 
