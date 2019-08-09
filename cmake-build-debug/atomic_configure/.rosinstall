@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eugen/Catkin/mpn/ws01/src/tuw_segment_progress_visualisation/cmake-build-debug/devel/setup.sh
