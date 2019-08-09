@@ -22,8 +22,9 @@ namespace tuw_segment_progress_visualisation{
         visualization_msgs::Marker line_strip;
         size_t path_size_;
         nav_msgs::Path::ConstPtr waypoints_ptr_;
+        int32_t previous_index;
 
-        void configure_line_strip(visualization_msgs::Marker &,uint32_t index);
+        void configure_line_strip(visualization_msgs::Marker &);
         void configure_line_strip_colours(visualization_msgs::Marker &, uint32_t index);
 
 

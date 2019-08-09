@@ -2,41 +2,41 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="visualization_msgs_generate_messages_cpp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_py" />
       <config projectName="tuw_segment_progress_visualisation" targetName="visualization_msgs_generate_messages_nodejs" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="gmock" />
       <config projectName="tuw_segment_progress_visualisation" targetName="visualization_msgs_generate_messages_lisp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="download_extra_data" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="run_tests" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="clean_test_results" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="gmock_main" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="gtest" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="gmock" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_eus" />
       <config projectName="tuw_segment_progress_visualisation" targetName="tuw_segment_progress_visualisation_node" />
       <config projectName="tuw_segment_progress_visualisation" targetName="visualization_msgs_generate_messages_eus" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_cpp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_eus" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_cpp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_lisp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="clean_test_results" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_lisp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_py" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="visualization_msgs_generate_messages_py" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="doxygen" />
       <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_py" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_nodejs" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_cpp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="run_tests" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="gtest_main" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="tests" />
       <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_nodejs" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_nodejs" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_eus" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_lisp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="visualization_msgs_generate_messages_cpp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_eus" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_lisp" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="gmock_main" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_py" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="gtest" />
-      <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="visualization_msgs_generate_messages_py" />
       <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="roscpp_generate_messages_eus" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="doxygen" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="gtest_main" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="download_extra_data" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="tuw_segment_progress_visualisation" targetName="tests" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -46,7 +46,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a7bb30-bcc2-4bad-9ab4-1005f8fdabf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tuw_segment_progress_visualisation_node.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tuw_segment_progress_visualisation_node.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/setup_cached.sh" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/setup_cached.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/googlemock/CMakeFiles/gmock.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/googlemock/CMakeFiles/gmock.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/googlemock/CMakeFiles/gmock_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/googlemock/CMakeFiles/gmock_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/googlemock/gtest/CMakeFiles/gtest.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/googlemock/gtest/CMakeFiles/gtest.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/tuw_segment_progress_visualisation/segment_progress_visualisation.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/tuw_segment_progress_visualisation/segment_progress_visualisation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segment_progress_visualisation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/segment_progress_visualisation.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
-              <caret line="118" column="52" selection-start-line="118" selection-start-column="52" selection-end-line="118" selection-end-column="52" />
+            <state relative-caret-position="60">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -73,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/tuw_segment_progress_visualisation/segment_progress_visualisation.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="77" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
+            <state relative-caret-position="360">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="30" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -85,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/segment_progress_visualisation.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+            <state relative-caret-position="225">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -114,8 +125,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/include/tuw_segment_progress_visualisation/segment_progress_viusalisation.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/include/tuw_segment_progress_visualisation/segment_progress_visualisation.h" />
         <option value="$PROJECT_DIR$/src/segment_progress_visualisation.cpp" />
       </list>
@@ -190,6 +201,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tuw_collision_alarm/CMakeLists.txt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -393,10 +405,6 @@
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.gmock" />
-      <item itemvalue="CMake Application.gmock_main" />
-      <item itemvalue="CMake Application.gtest" />
-      <item itemvalue="CMake Application.gtest_main" />
       <item itemvalue="CMake Application.roscpp_generate_messages_cpp" />
       <item itemvalue="CMake Application.roscpp_generate_messages_eus" />
       <item itemvalue="CMake Application.roscpp_generate_messages_lisp" />
@@ -420,6 +428,10 @@
       <item itemvalue="CMake Application.visualization_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.visualization_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.visualization_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -433,12 +445,12 @@
       <option name="presentableId" value="Default" />
       <updated>1565253963739</updated>
       <workItem from="1565253965145" duration="12914000" />
-      <workItem from="1565353801971" duration="4139000" />
+      <workItem from="1565353801971" duration="7127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17053000" />
+    <option name="totallyTimeSpent" value="20041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="29" width="1922" height="1052" extended-state="6" />
@@ -470,13 +482,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="118" column="52" selection-start-line="118" selection-start-column="52" selection-end-line="118" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -484,10 +489,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/include/tuw_segment_progress_visualisation/segment_progress_visualisation.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="77" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
@@ -496,8 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/segment_progress_visualisation.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
